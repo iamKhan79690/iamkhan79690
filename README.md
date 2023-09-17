@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anas Ur Rehman</h1>
+<h1 align="center">Hi 👋, I'm Anas Ur Rehman</h1>                                                                                         <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkhan79690&label=Profile%20views&color=0e75b6&style=flat" alt="iamkhan79690" /> </p>
+ 
 <h3 align="center">A student of SMIT Peshawar.Currently learning Ai .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkhan79690&label=Profile%20views&color=0e75b6&style=flat" alt="iamkhan79690" /> </p>
 
 - 📫 How to reach me **iamkhan7969@gmail.com**
 <h3 align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
