@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anas Ur Rehman</h1>                                                                                         <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkhan79690&label=Profile%20views&color=0e75b6&style=flat" alt="iamkhan79690" /> </p>
+<h1 align="center">Hi 👋, I'm Anas Ur Rehman</h1>                                                                                         <p align="left"> <img src="![image](https://github.com/iamKhan79690/iamkhan79690/assets/145249950/5b2e33bb-3a4c-4769-be97-a1ec2109510e)
+" alt="iamkhan79690" /> </p>
  
 <h3 align="center">A student of SMIT Peshawar.Currently learning Ai .</h3>
 
