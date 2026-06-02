@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <em>Building AI agents that think, act, and deliver — from prototype to production.</em>
+    <em>Turning AI hype into AI products — agents that work, apps that scale.</em>
 </p>
 
 <p align="center">
