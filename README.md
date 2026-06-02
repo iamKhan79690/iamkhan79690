@@ -83,7 +83,7 @@ class AnasUrRehman:
 
 <p align="center">
   <strong>
-    Every step toward your goal is a step closer to a future of your own making.
+    "The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
   </strong>
 </p>
 
