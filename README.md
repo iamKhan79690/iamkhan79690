@@ -4,19 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=500&lines=Anas-Ur-Rehman;Agentic+AI+Expert+%7C+Fullstack+Developer;I+build+AI+systems+from+concept+to+production" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/iamKhan79690"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anas-ur-rehman-/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iamkhan7969@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamKhan79690&style=flat-square&color=FFD700&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/iamKhan79690?style=flat-square&color=FFD700&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/iamKhan79690?style=flat-square&color=FFD700&label=STARS" />
-</p>
 
-<br/>
 
 <details open>
   <summary><b>About Me</b></summary>
@@ -49,7 +38,7 @@ class AnasUrRehman:
 ---
 
 <p align="center">
-    🛠️ Digital FTEs · Agentic Workflows · Custom MCP Servers · Automation Pipelines
+    🛠️ AI Agents · Fullstack Apps · Business Automation · Shipping Ideas into Production
 </p>
 
 <p align="center">
