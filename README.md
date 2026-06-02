@@ -1,25 +1,201 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-<h1 align="center">Hi 👋, I'm Anas-Ur-Rehman</h1>
-<h3 align="center">I am an Agentic Ai Expert & Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkhan79690&label=Profile%20views&color=0e75b6&style=flat" alt="iamkhan79690" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=500&lines=Anas-Ur-Rehman;Agentic+AI+Expert+%7C+Fullstack+Developer;I+build+AI+systems+from+concept+to+production" />
+</h1>
 
-- 👯 I’m looking to collaborate on **Ai chatbot**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **iamkhan7969@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/iamKhan79690"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anas-ur-rehman-/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:iamkhan7969@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamKhan79690&style=flat-square&color=FFD700&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/iamKhan79690?style=flat-square&color=FFD700&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/iamKhan79690?style=flat-square&color=FFD700&label=STARS" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkhan79690&show_icons=true&locale=en&layout=compact" alt="iamkhan79690" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkhan79690&show_icons=true&locale=en" alt="iamkhan79690" /></p>
+<details open>
+  <summary><b>About Me</b></summary>
+  <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkhan79690&" alt="iamkhan79690" /></p>
+```python
+class AnasUrRehman:
+    """I build AI systems that actually work."""
+
+    def __init__(self):
+        self.role = "Agentic AI Expert & Fullstack Developer"
+        self.focus = "AI Agents, Fullstack Systems & Business Automation"
+        self.build = {
+            "ai_agents":    ["Claude Code Skills", "Groq", "Dialogflow", "OpenAI"],
+            "fullstack":    ["React", "Next.js", "Node.js", "Express.js", "Tailwind"],
+            "backend":      ["Python", "FastAPI", "Streamlit"],
+            "databases":    ["MongoDB", "PostgreSQL", "Supabase", "MySQL"],
+            "infra":        ["Docker", "Vercel", "GitHub Actions"],
+        }
+        self.domains = ["Agentic AI", "Business Automation", "Fullstack Web Dev"]
+        self.now = "Building agents that act, not just answer"
+        self.vibe = "Ship fast. Let code speak."
+
+    def mission(self):
+        return "Solve real problems with AI. Nothing else."
+```
+
+</details>
+
+<br/>
+
+<details open>
+  <summary><b>Tech Stack</b></summary>
+  <br/>
+
+<p align="center">
+  <b>AI & Agents</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-FF6B35?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-6C47FF?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <br/><br/>
+
+  <b>Backend & APIs</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <br/><br/>
+
+  <b>Frontend & Full-Stack</b><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <br/><br/>
+
+  <b>Databases & DevOps</b><br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
+
+</details>
+
+<br/>
+
+<details open>
+  <summary><b>Projects</b></summary>
+  <br/>
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Project</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/iamKhan79690/AI-Employee"><b>AI-Employee</b></a></td>
+      <td>Autonomous digital FTE that automates front-office & back-office business operations</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/iamKhan79690/Ai-OS"><b>Ai-OS</b></a></td>
+      <td>Unified platform where multiple AI agents run together and work interoperably</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/iamKhan79690/claude-skills-collection"><b>claude-skills-collection</b></a></td>
+      <td>Production-ready Claude Code skills for business automation</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/iamKhan79690/TODO-EVOLUTION"><b>TODO-EVOLUTION</b></a></td>
+      <td>AI-powered task management with Groq chat assistant, Next.js & Supabase</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/iamKhan79690/JobPortal"><b>JobPortal</b></a></td>
+      <td>Full-stack job portal with Next.js, Express.js & MongoDB</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/iamKhan79690/ar-showcase"><b>ar-showcase</b></a></td>
+      <td>AR product showcase MVP built with Next.js and Google Model Viewer</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/iamKhan79690/E-Commerce-Website"><b>E-Commerce-Website</b></a></td>
+      <td>Full-featured e-commerce web application</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+<br/>
+
+<details open>
+  <summary><b>GitHub Analytics</b></summary>
+  <br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamKhan79690&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamKhan79690&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamKhan79690&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamKhan79690&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamKhan79690&theme=tokyonight&hide_border=true&bg_color=0d1117&area=true" />
+</div>
+
+</details>
+
+<br/>
+
+<details open>
+  <summary><b>What I've Shipped</b></summary>
+  <br/>
+
+<div align="center">
+
+| App | Stack |
+|-----|-------|
+| **AI-Employee** | Python, Claude Code Skills, Streamlit, Docker |
+| **Ai-OS** | Python, MCP Tools, Multi-Agent Architecture |
+| **claude-skills-collection** | Claude Code, Python, Skill Architecture |
+| **TODO-EVOLUTION** | Next.js, TypeScript, Supabase, Groq API |
+| **JobPortal** | Next.js, Express.js, MongoDB, Tailwind |
+| **ar-showcase** | Next.js, TypeScript, Google Model Viewer |
+| **E-Commerce-Website** | Fullstack Web App |
+
+</div>
+
+</details>
+
+<br/>
+
+<div align="center">
+
+Reach me: [`iamkhan7969@gmail.com`](mailto:iamkhan7969@gmail.com)
+
+<p>
+  <a href="https://github.com/iamKhan79690"><img src="https://img.shields.io/badge/GitHub-iamKhan79690-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/anas-ur-rehman-/"><img src="https://img.shields.io/badge/LinkedIn-Anas--Ur--Rehman-0077B5?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+</div>
