@@ -83,7 +83,7 @@ class AnasUrRehman:
 
 <p align="center">
   <strong>
-    "The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
+    "The people who are crazy enough to think they can change the world are the ones who do."
   </strong>
 </p>
 
