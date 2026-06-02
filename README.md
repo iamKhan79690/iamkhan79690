@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <em>Turning AI hype into AI products — agents that work, apps that scale.</em>
+    <em>Building AI agents that think, act, and deliver — from prototype to production.</em>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ```python
 class AnasUrRehman:
-    """I build AI systems that actually work."""
+    """Turning AI hype into AI products — agents that work, apps that scale."""
 
     def __init__(self):
         self.role = "Agentic AI Expert & Fullstack Developer"
