@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <em>I build AI agents and fullstack apps that solve real problems, not just look good in demos.</em>
+    <em>Building AI agents that think, act, and deliver — from prototype to production.</em>
 </p>
 
 <p align="center">
