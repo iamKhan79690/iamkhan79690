@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=500&lines=Anas-Ur-Rehman;Agentic+AI+Expert+%7C+Fullstack+Developer;I+build+AI+systems+from+concept+to+production" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=500&lines=Anas-Ur-Rehman;AI+Product+Engineer+%7C+Fullstack+Developer;I+build+AI+systems+from+concept+to+production" />
 </h1>
 
 <p align="center">
