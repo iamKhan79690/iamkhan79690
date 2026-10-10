@@ -23,7 +23,7 @@ class AnasUrRehman:
 
     def __init__(self):
         self.role = "AI Product Engineer & Fullstack Developer"
-        self.focus = "AI Agents, Fullstack Systems & Business Automation"
+        self.focus = "AI Products, Fullstack Systems & Business Automation"
         self.build = {
             "ai_agents":    ["Claude Code Skills", "Groq", "Dialogflow", "OpenAI"],
             "fullstack":    ["React", "Next.js", "Node.js", "Express.js", "Tailwind"],
